@@ -13,4 +13,4 @@ This is a console program that retrieves the datasets A & B, multiplies their ma
 
 Reference for Matrix Multiplication (A X B):
 
-![Test Image 3](/3DTest.png)
+![Reference](/wQz_PvB1Btr7X6063gAkh_oTpDCldjOiFsUGi7KcHDCo1JKZERWl9yHAny_FDL0XSDjdxjB2cFWLeQWajfX5VemDQG3pvfOL8y4OQX-RkDadpagQC6tiHvADMGzqaGdhkD3eWCVe.png)
